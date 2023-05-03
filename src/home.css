@@ -1,0 +1,55 @@
+ #container{
+  background: url('https://cdn.wallpapersafari.com/12/51/FHz7M8.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    text-align: center;
+    margin-top: 2px;
+    padding-bottom:120px;
+  
+}
+
+#weather{
+  color: rgb(10, 10, 10);
+}
+form{
+  margin-top: 30px;
+}
+
+form input{
+  padding: 6px;
+  border-radius: 30px;
+  margin: 5px;
+  border: none;
+padding-left: 20px;
+  box-shadow: 0px 0px 5px 1px rgba(96, 96, 198, 0.813);
+  margin-right: 20px;
+}
+form button{
+  border: none;
+  border-radius: 30px;
+  padding: 6px;
+  background-color: blueviolet;
+  color: white;
+  font-weight: 700;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px 20px;
+}
+#time,#date{
+  font-weight: 900;
+  font-family: Cambria;
+  color: white;
+}
+.result{
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+  font-weight:900 ;
+  padding: 20px;
+  color: rgba(13, 7, 39, 0.97);
+}
